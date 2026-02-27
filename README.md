@@ -263,12 +263,7 @@ instagram-influencers-dashboard/
 ├── data/
 │   └── top_insta_influencers_data.csv          # Raw dataset (200 rows)
 │
-├── screenshots/
-│   ├── page1_overview.png                      # Executive overview screenshot
-│   ├── page2_analysis.png                      # Deep analysis screenshot
-│   ├── kpi_cards.png                           # KPI cards close-up
-│   ├── scatter_engagement.png                  # Scatter chart screenshot
-│   └── gis_map.png                             # Geographic map screenshot
+├── Top_Instagram_Influencers_Dashboard_Guide.pdf                       
 │
 └── README.md                                   # Project documentation
 ```
