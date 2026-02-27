@@ -233,35 +233,6 @@ heavily, which partially decouples it from actual audience activity.
 | Esri ArcGIS (Power BI integration) | Geographic map visualization |
 | GitHub | Version control and portfolio hosting |
 
----
-
-## Screenshots
-
-> Replace the placeholders below with actual screenshots from your dashboard.
-> Export images from Power BI via File → Export → Export as Image, or use Snipping Tool.
-
-**Page 1 — Executive Overview**
-
-![Page 1 - Executive Overview](screenshots/page1_overview.png)
-
-**Page 2 — Deep Analysis**
-
-![Page 2 - Deep Analysis](screenshots/page2_analysis.png)
-
-**KPI Cards**
-
-![KPI Cards](screenshots/kpi_cards.png)
-
-**Scatter Chart — Engagement vs Followers**
-
-![Scatter Chart](screenshots/scatter_engagement.png)
-
-**GIS Map — Geographic Distribution**
-
-![GIS Map](screenshots/gis_map.png)
-
----
-
 ## How to Use
 
 **Requirements:** Power BI Desktop (free) — download from [microsoft.com/power-bi](https://www.microsoft.com/en-us/power-bi/desktop)
@@ -290,13 +261,6 @@ instagram-influencers-dashboard/
 │
 ├── data/
 │   └── top_insta_influencers_data.csv          # Raw dataset (200 rows)
-│
-├── screenshots/
-│   ├── page1_overview.png                      # Executive overview screenshot
-│   ├── page2_analysis.png                      # Deep analysis screenshot
-│   ├── kpi_cards.png                           # KPI cards close-up
-│   ├── scatter_engagement.png                  # Scatter chart screenshot
-│   └── gis_map.png                             # Geographic map screenshot
 │
 └── README.md                                   # Project documentation
 ```
@@ -332,8 +296,8 @@ instagram-influencers-dashboard/
 **[Your Name]**  
 Data Analytics Student  
 
-[LinkedIn Profile](https://linkedin.com/in/your-profile) |
-[GitHub](https://github.com/your-username)
+[LinkedIn Profile]([https://www.linkedin.com/in/mohamed-tamer-b59329347/) |
+[GitHub](https://github.com/Mohamed-Tamer-Ai)
 
 ---
 
