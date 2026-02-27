@@ -302,7 +302,7 @@ instagram-influencers-dashboard/
 ## Author
 
 **Mohamed Tamer Elshiekh**  
-Data Analytics Student
+Data Science Intern
 
 [LinkedIn](https://www.linkedin.com/in/mohamed-tamer-b59329347/) |
 [GitHub](https://github.com/Mohamed-Tamer-Ai)
