@@ -258,14 +258,13 @@ heavily, which partially decouples it from actual audience activity.
 ```
 instagram-influencers-dashboard/
 │
-├── Top_Instagram_Influencers_Dashboard.pbix    # Main Power BI file
+├── Top_Instagram_Influencers_Dashboard.pbix            # Main Power BI file
 │
-├── data/
-│   └── top_insta_influencers_data.csv          # Raw dataset (200 rows)
+├── top_insta_influencers_data.csv                      # Raw dataset (200 rows)
 │
-├── Top_Instagram_Influencers_Dashboard_Guide.pdf                       
+├── Top_Instagram_Influencers_Dashboard_Guide.pdf       # Dashboard Building Guide                
 │
-└── README.md                                   # Project documentation
+└── README.md                                           # Project documentation
 ```
 
 ---
